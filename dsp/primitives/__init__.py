@@ -4,3 +4,4 @@ from .inspect import *
 from .predict import *
 from .primitives import *
 from .search import *
+from .vision import *

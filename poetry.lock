@@ -3989,7 +3989,7 @@ numpy = "*"
 name = "pillow"
 version = "10.4.0"
 description = "Python Imaging Library (Fork)"
-optional = true
+optional = false
 python-versions = ">=3.8"
 files = [
     {file = "pillow-10.4.0-cp310-cp310-macosx_10_10_x86_64.whl", hash = "sha256:4d9667937cfa347525b319ae34375c37b9ee6b525440f3ef48542fcf66f2731e"},
@@ -7443,4 +7443,4 @@ weaviate = ["weaviate-client"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.13"
-content-hash = "3e0c99d3cc24175e5bd72ed0a3577a2766ecb7e4da688f78a9462a5dcfa5a457"
+content-hash = "4ade6f5cf5bda47937a265cdd677efda52a260b4c9ebaca0d96c85e92cf884ed"
